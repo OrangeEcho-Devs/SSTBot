@@ -4,18 +4,18 @@
 
 	"OwnerID": "475149822366580744",
 
-	"BotManagerRoleID": "712098378908958750",
-	"ModeratorRoleID": "713693636058939433", 
-	"MuteRoleID": "698021299515031645",
-	"MemberRoleID": "685076242219008000",
+	"BotManagerRoleID": "658976903687831552",
+	"ModeratorRoleID": "674185800845623296", 
+	"MuteRoleID": "663953291507400716",
+	"MemberRoleID": "694744164620959764",
 
-	"UserLog": "686031102048993322",
-	"ModLog": "685110052474191882",
-	"BotLog": "712169995190403092",
-	"Suggestions": "685074431202164747",
+	"UserLog": "721696923287027764",
+	"ModLog": "674386017620328564",
+	"BotLog": "674386017620328564",
+	"Suggestions": "",
 
-	"botSuggestionWebhookID":"714692856648040469",
-	"botSuggestionWebhookToken":"VQa4Y8SExayjCnrAfKK0kTiDT4U3eftRf56P1Kw5XocTgFnksHT6t0imfNet1sGemxhz",
+	"botSuggestionWebhookID":"7",
+	"botSuggestionWebhookToken":"",
 
 	"AssignMemberRoleOnJoin": false,
 	"ProcessEndOnError": false,
@@ -27,9 +27,9 @@
 	"BlacklistCommand":"blacklist",
 	"WhitelistCommand":"whitelist",
 	"highTrafficCommand":"delay",
-	"MessageLog": "720617720089149450",
+	"MessageLog": "721701063182516249",
 	"RequirePermissons": true,
-	"StaffRoleID":"713693636058939433",
+	"StaffRoleID":"674185800845623296",
 
 	"NoPermReply": "Heck, you're missing perms. Try again later or contact Orange Group #5362",
 	"DMRespondMessage": "Please keep your DMs open for a response!"
