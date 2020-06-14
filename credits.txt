@@ -1,0 +1,11 @@
+Bot creator: `Orange Group #5362`
+
+General testing: `Our moderators and our server members`
+
+Writing the bot: `Orange Group #5362`
+
+Bot profile picture design: `Echo #3625`
+
+Thanks to everyone else who helped with this project too! :)
+
+**You can check my source code here**: https://github.com/OrangeEcho-Devs/OrangeEchoPublicBeta

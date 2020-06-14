@@ -1,0 +1,36 @@
+{
+	"prefix": "*",
+	"token": "",
+
+	"OwnerID": "475149822366580744",
+
+	"BotManagerRoleID": "712098378908958750",
+	"ModeratorRoleID": "713693636058939433", 
+	"MuteRoleID": "698021299515031645",
+	"MemberRoleID": "685076242219008000",
+
+	"UserLog": "686031102048993322",
+	"ModLog": "685110052474191882",
+	"BotLog": "712169995190403092",
+	"Suggestions": "685074431202164747",
+
+	"botSuggestionWebhookID":"714692856648040469",
+	"botSuggestionWebhookToken":"VQa4Y8SExayjCnrAfKK0kTiDT4U3eftRf56P1Kw5XocTgFnksHT6t0imfNet1sGemxhz",
+
+	"AssignMemberRoleOnJoin": false,
+	"ProcessEndOnError": false,
+	"CrashNotify": true,
+
+	"DMCommand": "dm",
+	"DisableIncomingMailCommand":"disable",
+	"EnableIncomingMailCommand":"enable",
+	"BlacklistCommand":"blacklist",
+	"WhitelistCommand":"whitelist",
+	"highTrafficCommand":"delay",
+	"MessageLog": "720617720089149450",
+	"RequirePermissons": true,
+	"StaffRoleID":"713693636058939433",
+
+	"NoPermReply": "Heck, you're missing perms. Try again later or contact Orange Group #5362",
+	"DMRespondMessage": "Please keep your DMs open for a response!"
+}

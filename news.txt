@@ -1,0 +1,18 @@
+OrangeEcho News
+**botOS 6.4.0 has been released!**
+New features:
+Poll feature
+Urban dictionary feature (finally we managed to do it)
+New aiModule (3)
+
+**botOS 6.3.4 has been released!**
+New features:
+AI repeating itself more than once bug is fixed
+New MrsMajor 3.0 keygen look (more reliable too!) [*mm3.0key]
+Added some more stuff to the AI
+
+**Version 6.0.0 has been released!**
+New features:
+The bot has an AI now! Simply ping the bot and type the message next to it! Eg "@OrangeEcho Stable [message]"
+Bot cannot send emojis problem has been fixed!
+Certain improvements like recreating the text has been rolled out.

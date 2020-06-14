@@ -1,0 +1,22 @@
+{
+	"prefix": "",
+	"token": "",
+
+	"OwnerID":"",
+
+	"BotManagerRoleID": "",
+	"ModeratorRoleID": "",
+	"MuteRoleID": "",
+	"MemberRoleID": "",
+
+	"UserLog": "",
+	"ModLog": "",
+	"BotLog": "",
+
+	"botSuggestionWebhookID":"",
+	"botSuggestionWebhookToken":"",
+
+	"AssignMemberRoleOnJoin": false,
+	"ProcessEndOnError": false,
+	"CrashNotify": true
+}

@@ -1,0 +1,857 @@
+[
+      {
+        "version" : "2.0.0.231",
+        "author"  : "Orange Group",
+        "ignore"  : true
+      },
+      {
+        "question" : "What was the title of the first Orange Management Corporation (Orange Group #5362) video related to actual malware testing?",
+        "choice1" : "A. FMV #1 MrsMajor 3.0 Removal Part 1",
+        "choice2" : "B. 000.exe download link + removal",
+        "choice3" : "C. Bypass and uninstall Kaspersky Safe Kids",
+        "choice4" : "D. Virus Removal Tutorial",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "1"
+      },
+      {
+        "question" : "What kind of videos does Orange Management Corporation (Orange Group #5362) make?",
+        "choice1" : "A. Tech",
+        "choice2" : "B. Vlog",
+        "choice3" : "C. Minecraft gaming",
+        "choice4" : "D. Fortnite gaming",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "2"
+      }, 
+      {
+        "question" : "What kind of videos does DJEchoGamingYT (Echo #3625) make?",
+        "choice1" : "A. Tech",
+        "choice2" : "B. Vlog",
+        "choice3" : "C. Minecraft gaming",
+        "choice4" : "D. Fortnite gaming",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "3"
+      }, 
+      {
+        "question" : "When was the OrangeEcho Stable bot first released?",
+        "choice1" : "A. 30 August 2020 :grin:",
+        "choice2" : "B. 24 May 2020",
+        "choice3" : "C. 18 May 2020",
+        "choice4" : "D. 20 May 2020",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "4"
+      },
+      {
+        "question" : "BONUS: How was the Orange Group logo designed?",
+        "choice1" : "A. Pencil on Orange paper, and then scanned",
+        "choice2" : "B. Pen on green paper, and then scanned",
+        "choice3" : "C. Pencil on pink paper, and then scanned",
+        "choice4" : "D. Digitally designed on keynote",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "5"
+      }, 
+      {
+        "question" : "BONUS: Why is the Orange Group logo slightly slanted?",
+        "choice1" : "A. It's just like that, was designed like that",
+        "choice2" : "B. Design error",
+        "choice3" : "C. Just happened to be slanted unintentionally during scanning",
+        "choice4" : "D. It's a trend",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "6"
+      }, 
+      {
+        "question" : "What were the names of the people that founded Apple?",
+        "choice1" : "A. Orange Group Tech, Echo",
+        "choice2" : "B. Steve Jobs, Steve Wozniak, Ronald Wayne",
+        "choice3" : "C. Kim Jong-Il, Kim Jong-Un",
+        "choice4" : "D. Bill Gates, Melinda Gates",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "7"
+      }, 
+      {
+        "question" : "Which of the following companies is a subsidiary of Apple?",
+        "choice1" : "A. Akapella Interaktive",
+        "choice2" : "B. Pixar",
+        "choice3" : "C. Netflix",
+        "choice4" : "D. Beats Electronics",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "8"
+      }, 
+      {
+        "question" : "**Easter egg question:** if you see this, lucky ducky, you have found an easter egg! ",
+        "choice1" : "A. :grin:",
+        "choice2" : "B. :sob:",
+        "choice3" : "C. :egg:",
+        "choice4" : "D. :neutralpng:",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "9"
+      }, 
+      {
+        "question" : "What Mac does Orange Group #5362 use?",
+        "choice1" : "A. 13-inch MacBook Pro 2019",
+        "choice2" : "B. 16-inch MacBook Pro 2019",
+        "choice3" : "C. 13-inch MacBook Pro 2020",
+        "choice4" : "D. Mac Pro",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "10"
+      }, 
+      {
+        "question" : "When was Apple founded?",
+        "choice1" : "A. April 1, 1976",
+        "choice2" : "B. April 30, 1976",
+        "choice3" : "C. March 29, 1976",
+        "choice4" : "D. February 21, 1976",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "11"
+      },
+      {
+        "question" : "How many (approximate) Apple Stores are there as of 2019?",
+        "choice1" : "A. 600",
+        "choice2" : "B. 1000",
+        "choice3" : "C. 500",
+        "choice4" : "D. 5000",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "12"
+      },
+      {
+        "question" : "How many (approximate) employees are working at Apple as of 2019?",
+        "choice1" : "A. 200,000",
+        "choice2" : "B. 137,000",
+        "choice3" : "C. 99,900",
+        "choice4" : "D. 91,000",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "13"
+      },
+      {
+        "question" : "How many moderators has the OrangeEcho Discord had in total?",
+        "choice1" : "A. 9999999999999999999999999999999999999999999999999999999",
+        "choice2" : "B. 6",
+        "choice3" : "C. 4",
+        "choice4" : "D. 7",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "14"
+      },
+      {
+        "question" : "What was the name of Steve Jobs' new company after he left Apple?",
+        "choice1" : "A. PrEVIOUS",
+        "choice2" : "B. Akapella Komputers",
+        "choice3" : "C. NeXT",
+        "choice4" : "D. Orange Group Tech",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "15"
+      },
+      {
+        "question" : "What macOS am I (Orange Group #5362) using now as of 24 May 2020?",
+        "choice1" : "A. macOS Mojave 10.14.6",
+        "choice2" : "B. macOS Catalina 10.15.4",
+        "choice3" : "C. macOS Catalina Beta 10.15.5",
+        "choice4" : "D. What an outdated guy, Mac OS 9",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "16"
+      },
+      {
+        "question" : "Which computer OS does Orange Group #5362 think is best?",
+        "choice1" : "A. macOS",
+        "choice2" : "B. Windows",
+        "choice3" : "C. Linux :cool:",
+        "choice4" : "D. Linus :cool:",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "17"
+      },
+      {
+        "question" : "What was the sanity check phrase for .clearwarn?",
+        "choice1" : "A. YES I WANT TO DO IT",
+        "choice2" : "B. I AM NOT CRAZY, DO IT",
+        "choice3" : "C. CHECK ME, I DON'T HAVE ANY, DO IT",
+        "choice4" : "D. YES I AM SURE",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "18"
+      },
+      {
+        "question" : "What's the name of the game company that makes macOS ports of games?",
+        "choice1" : "A. Nap Pod",
+        "choice2" : "B. Feral Interactive",
+        "choice3" : "C. Fift33n Games",
+        "choice4" : "D. None Taken Interactive",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "19"
+      },
+      {
+        "question" : "Easter Egg: When did **YOU** join the server? :grin:",
+        "choice1" : "A. null",
+        "choice2" : "B. null",
+        "choice3" : "C. null",
+        "choice4" : "D. null",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "20"
+      },
+      {
+        "question" : "When did Orange Group officially open as a company?",
+        "choice1" : "A. 2020",
+        "choice2" : "B. 2019",
+        "choice3" : "C. 2016",
+        "choice4" : "D. Year 0",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "21"
+      },
+      {
+        "question" : "What was the first name of Orange Group in 2016? Guess :grin:",
+        "choice1" : "A. Orange Group ofc",
+        "choice2" : "B. Orange Juice",
+        "choice3" : "C. Orange Rental",
+        "choice4" : "D. Orange Management Corporation",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "22"
+      },
+      {
+        "question" : "What is Orange Group's GitHub username?",
+        "choice1" : "A. orangegrouptech",
+        "choice2" : "B. orangegroup",
+        "choice3" : "C. BowBeforeMe420",
+        "choice4" : "D. H4ck3rMuch",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "23"
+      },
+      {
+        "question" : "Since what year was Bootcamp introduced on Macs?",
+        "choice1" : "A. 2004",
+        "choice2" : "B. 2013",
+        "choice3" : "C. 2006",
+        "choice4" : "D. 2008",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "24"
+      },
+      {
+        "question" : "The OS X to macOS name transition occured at what version of macOS?",
+        "choice1" : "A. Sierra",
+        "choice2" : "B. Mavericks",
+        "choice3" : "C. El Capitan",
+        "choice4" : "D. Catalina",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "25"
+      },
+      {
+        "question" : "You get a free pass! Answer is `a`.",
+        "choice1" : "A. -",
+        "choice2" : "B. -",
+        "choice3" : "C. -",
+        "choice4" : "D. -",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "26"
+      },
+      {
+        "question" : "How many commits were made to the testing bot as of May 24, 2020?",
+        "choice1" : "A. 99",
+        "choice2" : "B. 911",
+        "choice3" : "C. 1",
+        "choice4" : "D. 30",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "27"
+      },
+      {
+        "question" : "Who is Orange Group?",
+        "choice1" : "A. MKBHD",
+        "choice2" : "B. Orange Group (Tech)",
+        "choice3" : "C. Linus Tech Tips (LTT)",
+        "choice4" : "D. Snazzy Labs",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "28"
+      },
+      {
+        "question" : "How many people left the server because they were too lazy to do the captcha?",
+        "choice1" : "A. 911",
+        "choice2" : "B. 1",
+        "choice3" : "C. 2",
+        "choice4" : "D. 3",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "29"
+      },
+      {
+        "question" : ":grin: :egg: Are you banned from the OrangeEcho server currently?",
+        "choice1" : "A. Yes",
+        "choice2" : "B. Yes",
+        "choice3" : "C. Yes",
+        "choice4" : "D. Yes",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "30"
+      },
+      {
+        "question" : "Did Orange Group #5362 create a music video?",
+        "choice1" : "A. Yes",
+        "choice2" : "B. No",
+        "choice3" : "C. -",
+        "choice4" : "D. -",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "31"
+      },
+      {
+        "question" : "Is the OrangeEcho bot good?",
+        "choice1" : "A. Yes",
+        "choice2" : "B. Yes",
+        "choice3" : "C. Yes",
+        "choice4" : "D. Hell yeah",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "32"
+      },
+      {
+        "question" : "What's the color of Orange Group #5362's profile picture background?",
+        "choice1" : "A. blue",
+        "choice2" : "B. yellow",
+        "choice3" : "C. pink",
+        "choice4" : "D. orange",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "33"
+      },
+      {
+        "question" : "What's LT-Tips's song that's on his status?",
+        "choice1" : "A. Laszlo - Supernova",
+        "choice2" : "B. Alan Walker & Ruben - Heading Home",
+        "choice3" : "C. Ashe - Moral of the Story",
+        "choice4" : "D. JP Saxe & Julia Michaels - If The World Was Ending",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "34"
+      },
+      {
+        "question" : "When did Orange Group #5362 enroll in the Apple Public Beta Program?",
+        "choice1" : "A. 2020",
+        "choice2" : "B. 2019",
+        "choice3" : "C. When it was a dark and stormy night... no, that's not it.",
+        "choice4" : "D. when iOS 99 was released",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "35"
+      },
+      {
+        "question" : "Was the OrangeEcho Discord server always a public server?",
+        "choice1" : "A. Yes",
+        "choice2" : "B. No",
+        "choice3" : "C. -",
+        "choice4" : "D. -",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "36"
+      },
+      {
+        "question" : "What was the first name of the OrangeEcho discord sever **when Orange Group became co-owner**?",
+        "choice1" : "A. Republic of Echo Gaming and Orange Group's Network of Tech Tips",
+        "choice2" : "B. Echo's",
+        "choice3" : "C. Orange Group's Network of Tech Tips",
+        "choice4" : "D. Republic of Echo Gaming",
+        "answer" : "b",
+        "answer_case" : "A",
+        "qid" : "37"
+      },
+      {
+        "question" : "Which of these does **not** exist?",
+        "choice1" : "A. Orange Group's Subreddit",
+        "choice2" : "B. Orange Group's Website",
+        "choice3" : "C. Orange Group's Wiki",
+        "choice4" : "D. Orange Group Tech's GitHub",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "38"
+      },
+      {
+        "question" : "What year did Apple release the Macintosh IIcx?",
+        "choice1" : "A. 1989",
+        "choice2" : "B. 1983",
+        "choice3" : "C. 1999",
+        "choice4" : "D. 1991",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "39"
+      },
+      {
+        "question" : "What's the beta of Discord called??",
+        "choice1" : "A. Discord Canary",
+        "choice2" : "B. Discord Beta",
+        "choice3" : "C. Discord",
+        "choice4" : "D. DISCORD IS F- `Watch your language. A warning has been logged.` ",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "40"
+      },
+      {
+        "question" : "When was the first Macintosh computer invented?",
+        "choice1" : "A. 1984",
+        "choice2" : "B. 1979",
+        "choice3" : "C. 1969",
+        "choice4" : "D. 1985",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "41"
+      },
+      {
+        "question" : "What was the processor of the first Macintosh board?",
+        "choice1" : "A. Motorola 6809E",
+        "choice2" : "B. Intel 8080",
+        "choice3" : "C. Intel Pentium I",
+        "choice4" : "D. Intel Pentium I MMX",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "42"
+      },
+      {
+        "question" : "How much RAM does the first Macintosh have?",
+        "choice1" : "A. 32 KB",
+        "choice2" : "B. 128 KB",
+        "choice3" : "C. 64 KB",
+        "choice4" : "D. 1 MB",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "43"
+      },
+      {
+        "question" : "What Macintosh laptop introduced a trackball as a trackpad before **the** trackpad was released?",
+        "choice1" : "A. Macintosh Portable",
+        "choice2" : "B. PowerBook 100",
+        "choice3" : "C. MacBook",
+        "choice4" : "D. MacBook Air",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "44"
+      },
+      {
+        "question" : "Which Apple computer was released in 1998?",
+        "choice1" : "A. Macbook Pro",
+        "choice2" : "B. Mac Mini",
+        "choice3" : "C. Twentieth Anniversary Macintosh",
+        "choice4" : "D. iMac G3",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "45"
+      },
+      {
+        "question" : "When did Apple end support for PowerPC processors?",
+        "choice1" : "A. 2020",
+        "choice2" : "B. 2011",
+        "choice3" : "C. 2009",
+        "choice4" : "D. 2006",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "46"
+      },
+      {
+        "question" : "What Macintosh Performa model had a shape like a tower?",
+        "choice1" : "A. 5200",
+        "choice2" : "B. 6400",
+        "choice3" : "C. 6300",
+        "choice4" : "D. 5300",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "47"
+      },
+      {
+        "question" : "How many songs can the original model iPod hold?",
+        "choice1" : "A. 2000",
+        "choice2" : "B. 10000",
+        "choice3" : "C. 1000",
+        "choice4" : "D. 500",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "48"
+      },
+      {
+        "question" : "All iPods listed here have a click wheel/circle EXCEPT:",
+        "choice1" : "A. iPod Nano",
+        "choice2" : "B. iPod Shuffle",
+        "choice3" : "C. iPod Classic",
+        "choice4" : "D. iPod Touch",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "49"
+      },
+      {
+        "question" : "What product has Apple **not** made?",
+        "choice1" : "A. iTV",
+        "choice2" : "B. Apple Watch",
+        "choice3" : "C. iPad",
+        "choice4" : "D. iPhone ",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "50"
+      },
+      {
+        "question" : "What Digital Audio Workstation does most music producers use?",
+        "choice1" : "A. FruityLoops (FL) Studio",
+        "choice2" : "B. Ableton Live Suite",
+        "choice3" : "C. Logic Pro X",
+        "choice4" : "D. Garageband",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "51"
+      },
+      {
+        "question" : "All of these statements are error messages for scientific calculators EXCEPT:",
+        "choice1" : "A. Syntax Error",
+        "choice2" : "B. Math Error",
+        "choice3" : "C. Stack Error",
+        "choice4" : "D. Power Error",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "52"
+      },
+      {
+        "question" : "Orange Group #5362 is actually the Co-founder and not the actual founder of Orange Group. Who was?",
+        "choice1" : "A. Orange Group lah",
+        "choice2" : "B. dino123t",
+        "choice3" : "C. Echo",
+        "choice4" : "D. I give up, goodbye",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "53"
+      },
+      {
+        "question" : "What was the first thing OrangeEcho Alpha/Public Beta discord bot ever said?",
+        "choice1" : "A. Here are the available commands *shows list of commands*",
+        "choice2" : "B. <user>, watch your language!",
+        "choice3" : "C. Hello, <user>! Nice to see one of my managers!",
+        "choice4" : "D. i am sentient **HAHAHAHAHHAHAHAHAHHAHAHHHHAHAH**",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "54"
+      },
+      {
+        "question" : "Identify the song that has these lyrics.\nLover come over, look what I've done.",
+        "choice1" : "A. Faded",
+        "choice2" : "B. Cringe",
+        "choice3" : "C. Love Story",
+        "choice4" : "D. Heading Home",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "55"
+      },
+      {
+        "question" : "What was the hardest part of the bot to code?",
+        "choice1" : "A. ban",
+        "choice2" : "B. lockdown",
+        "choice3" : "C. trivia",
+        "choice4" : "D. SATISFYING YOU GUYS",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "56"
+      },
+      {
+        "question" : "What command of the bot has been bugged from the start **and is still bugged**?",
+        "choice1" : "A. ban",
+        "choice2" : "B. unban",
+        "choice3" : "C. lockdown",
+        "choice4" : "D. trivia",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "57"
+      },
+      {
+        "question" : "Did OrangeEcho discord bot ever warn the BOT OWNER??",
+        "choice1" : "Yes. It was so poorly coded at that time.",
+        "choice2" : "No",
+        "choice3" : "-",
+        "choice4" : "-",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "58"
+      },
+      {
+        "question" : "What's listed in these choices are real iPod models EXCEPT:",
+        "choice1" : "A. iPod Nano",
+        "choice2" : "B. iPod Shuffle",
+        "choice3" : "C. iPod Touch",
+        "choice4" : "D. iPod Pro",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "59"
+      },
+      {
+        "question" : "Did Echo code any part of this bot?",
+        "choice1" : "A. Yes, thanks Echo",
+        "choice2" : "B. HELL NO, LAZY ECHO, ORANGE GROUP HAD TO DO IT ALL BY HIMSELF",
+        "choice3" : "C. idk",
+        "choice4" : "D. -",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "60"
+      },
+      {
+        "question" : "What programming language is OrangeEcho discord bot written in?",
+        "choice1" : "A. Node.js (discord.js)",
+        "choice2" : "B. Python",
+        "choice3" : "C. JavaScript",
+        "choice4" : "D. C++",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "61"
+      },
+      {
+        "question" : "What CPU do Macs use as of 2020?",
+        "choice1" : "A. ARM",
+        "choice2" : "B. AMD",
+        "choice3" : "C. Intel",
+        "choice4" : "D. Qualcomm",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "62"
+      },
+      {
+        "question" : "What was the cause of Steve Jobs' death?",
+        "choice1" : "A. Laryngeal cancer",
+        "choice2" : "B. AIDS infection",
+        "choice3" : "C. Neuroendocrine cancer",
+        "choice4" : "D. Severe food poisoning",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "63"
+      },
+      {
+        "question" : "When did Steve Jobs die?",
+        "choice1" : "A. October 12, 2011",
+        "choice2" : "B. October 17, 2011",
+        "choice3" : "C. October 29, 2011",
+        "choice4" : "D. October 5, 2011",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "64"
+      },
+      {
+        "question" : "Which macOS version is the easiest to Hackintosh?",
+        "choice1" : "A. Catalina",
+        "choice2" : "B. Snow Leopard",
+        "choice3" : "C. Mountain Lion",
+        "choice4" : "D. Mojave",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "65"
+      },
+      {
+        "question" : "What was the first OrangeEcho discord bot version to have a stable release?",
+        "choice1" : "A. 5.0.1",
+        "choice2" : "B. 5.0.0",
+        "choice3" : "C. 4.0.0",
+        "choice4" : "D. 1.0.0",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "66"
+      },
+      {
+         "question" : "The choices listed here are Guilermo Del Toro works EXCEPT FOR:",
+        "choice1" : "A. Pacific Rim",
+        "choice2" : "B. Trollhunters",
+        "choice3" : "C. Cthulhu: From The Mountains of Madness",
+        "choice4" : "D. The Simpsons",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "67"
+      },
+      {
+        "question" : "What is the first macOS version to have a UI similar to iOS 7?",
+        "choice1" : "A. Mavericks",
+        "choice2" : "B. Lion",
+        "choice3" : "C. El Capitan",
+        "choice4" : "D. Yosemite",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "68"
+      },
+      {
+        "question" : "What is the first macOS version that introduced dark mode?",
+        "choice1" : "A. Catalina",
+        "choice2" : "B. Mojave",
+        "choice3" : "C. Panther",
+        "choice4" : "D. Jaguar",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "69"
+      },
+      {
+        "question" : "What is the name of the guy you need to find in books and is always hiding?",
+        "choice1" : "A. William",
+        "choice2" : "B. Waldo/Wally",
+        "choice3" : "C. Warren",
+        "choice4" : "D. Winnie",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "70"
+      },
+      {
+        "question" : "What is the real name of music producer Vories?",
+        "choice1" : "A. Martin Følsgaard",
+        "choice2" : "B. Hannes Gustafsson",
+        "choice3" : "C. Michael Hansen",
+        "choice4" : "D. Wouter Postelmans",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "71"
+      },
+      {
+        "question" : "What track did K-391 use as the base of Alan Walker collab song Lily?",
+        "choice1" : "A. Godzilla",
+        "choice2" : "B. Origin",
+        "choice3" : "C. Flux",
+        "choice4" : "D. Tesla",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "72"
+      },
+      {
+        "question" : "What track did K-391 use as the base of Alan Walker collab song Ignite?",
+        "choice1" : "A. Godzilla",
+        "choice2" : "B. Origin",
+        "choice3" : "C. Flux",
+        "choice4" : "D. Tesla",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "73"
+      },
+      {
+        "question" : "What is the name of the K-391 track that used Tesla car sounds as the base of the song?",
+        "choice1" : "A. Flux",
+        "choice2" : "B. East",
+        "choice3" : "C. Away",
+        "choice4" : "D. Tesla",
+        "answer" : "d",
+        "answer_case" : "d",
+        "qid" : "74"
+      },
+      {
+        "question" : "Which font does Apple use for macOS?",
+        "choice1" : "A. SF Pro",
+        "choice2" : "B. Avenir",
+        "choice3" : "C. Helvetica Neue",
+        "choice4" : "D. Comic Sans",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "75"
+      },
+      {
+        "question" : "Which PC operating system has the most market share?",
+        "choice1" : "A. ChromeOS",
+        "choice2" : "B. macOS",
+        "choice3" : "C. Windows",
+        "choice4" : "D. Linux",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "76"
+      },
+      {
+        "question" : "Which mobile operating system has the most market share?",
+        "choice1" : "A. iOS",
+        "choice2" : "B. Android",
+        "choice3" : "C. Symbian",
+        "choice4" : "D. Tizen",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "77"
+      },
+      {
+        "question" : "Which company is THE biggest Android manufacturer?",
+        "choice1" : "A. Apple",
+        "choice2" : "B. OnePlus",
+        "choice3" : "C. Huawei",
+        "choice4" : "D. Samsung",
+        "answer" : "d",
+        "answer_case" : "D",
+        "qid" : "78"
+      },
+      {
+        "question" : "This/these song/s from Black Eyed Peas triggers nostalgia among 2000s kids. Which one/s? [two answers]",
+        "choice1" : "A. Let's Get It Started",
+        "choice2" : "B. Boom Boom Pow",
+        "choice3" : "C. I Gotta Feeling",
+        "choice4" : "D. Where Is The Love?",
+        "answer" : ["c", "b"],
+        "answer_case" : ["C", "B"],
+        "qid" : "79"
+      },
+      {
+        "question" : "Who produced the song Somebody Else from the Hopeful Dreams album?",
+        "choice1" : "A. Theorie und Hedges",
+        "choice2" : "B. Alan Walker",
+        "choice3" : "C. Manse",
+        "choice4" : "D. WildVibes",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "80"
+      },
+      {
+        "question" : "Rick and Morty is aired at what channel?",
+        "choice1" : "A. ABC",
+        "choice2" : "B. [adult swim]",
+        "choice3" : "C. CBS",
+        "choice4" : "D. Warner Bros. TV",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "81"
+      },
+      {
+        "question" : "Which company owns Warner Bros.? (as of 2019)",
+        "choice1" : "A. WarnerMedia",
+        "choice2" : "B. NBCUniversal",
+        "choice3" : "C. TimeWarner",
+        "choice4" : "D. Apple Explained",
+        "answer" : "a",
+        "answer_case" : "A",
+        "qid" : "82"
+      },
+      {
+        "question" : "Which company owns Android?",
+        "choice1" : "A. MEEEEE",
+        "choice2" : "B. Android co.",
+        "choice3" : "C. Google",
+        "choice4" : "D. Apple",
+        "answer" : "c",
+        "answer_case" : "C",
+        "qid" : "83"
+      },
+      {
+        "question" : "Which is the most expensive smartphone as of the first quarter of 2020?",
+        "choice1" : "A. iPhone 11 Pro Max 512GB",
+        "choice2" : "B. Galaxy S20 Ultra 5G",
+        "choice3" : "C. Huawei P40 Pro",
+        "choice4" : "D. OnePlus 8 Pro",
+        "answer" : "b",
+        "answer_case" : "B",
+        "qid" : "84"
+      },
+      {
+        "question" : "Never gonna give you up, never gonna let you down, never gonna run around and desert you :grin:",
+        "choice1" : "A. NOOOOOOOO",
+        "choice2" : "B. :angry:",
+        "choice3" : "C. U JUST GOT RICK ROLLED",
+        "choice4" : "D. WHYYYYY",
+        "answer" : "c",
+        "answer_case" : "",
+        "qid" : "85"
+      }
+]
