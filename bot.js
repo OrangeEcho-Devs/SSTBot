@@ -1066,6 +1066,7 @@ client.on('message', message => {
 		if(blocked == `${blocked}`)
 			console.log(`${message.author.tag} tried to use profanity. Logged word: ${blocked}`);
 			respond('',`<@${message.author.id}>, watch your language. A warning has been logged.`, message.channel, 'FF0000')
+			message.delete();
     		const reason = message.content.replace(`${blocked}`, `**${blocked}**`)
 	    	fs.appendFileSync('./logs/' + message.author.id + '-warnings.log', 'Warning\nReason: Profanity (' + reason +')\n\n');
     		fs.appendFileSync('./logs/' + message.author.id + '-modwarnings.log', 'Warning issued by OrangeEcho Public Beta \nReason: Profanity (' + message.content +')\n\n');
