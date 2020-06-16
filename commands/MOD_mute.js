@@ -23,6 +23,7 @@ module.exports = {
      const role = guild.roles.cache.find(role => role.id === `${MuteRoleID}`);
      const mentionedmember = '<@'+message.mentions.users.first().id+'>'
       const member = message.mentions.members.first();
+      if(reason == ''){var reason = 'No reason provided.'}
      member.roles.add([role]);
      respond('🔇 Muted',`You were muted due to:\n ${reason}`, member)
      respond('🔇 Muted',mentionedmember+' was muted.', message.channel);

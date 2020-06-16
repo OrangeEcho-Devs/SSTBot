@@ -577,7 +577,7 @@ lockchannelaction = function (RanBy, RanIn){
 }
 
 //Mute
-muteaction = function (RanBy, member, reason){
+muteaction = function (member, RanBy, reason){
 	const ModReportEmbed = new Discord.MessageEmbed()
 		ModReportEmbed.setColor('#FF4500')
 		ModReportEmbed.setTitle('Mute')

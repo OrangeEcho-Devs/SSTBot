@@ -20,6 +20,7 @@ module.exports = {
     const guild = message.guild
     const role = guild.roles.cache.find(role => role.id === `${MuteRoleID}`);
     const member = message.mentions.members.first();
+      if(reason == ''){var reason = 'No reason provided.'}
    member.roles.remove(role);
     respond('🔈 Unmuted','<@'+ taggeduser +'> was unmuted.',message.channel);
     unmuteaction(member, message.author.tag, reason)
