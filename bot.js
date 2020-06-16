@@ -1050,13 +1050,13 @@ client.on('guildMemberRemove', member => {
 	channel.send(MemberLeaveEmbed)
 });
 
-//Profanity filter
-client.on('message', message => {
+//Profanity filter (Feature disabled)
+/*client.on('message', message => {
 	if(safemode == true)return;
 	if(message.channel.type == 'dm')return;
-	const profanity = require('./profanity.json');
-	var editedMessage = message.content.replace(/\*/g, "bad")
-	var editedMessage = editedMessage.replace(/\_/g, "bad")
+	const profanity = require('./profanity.json');*/
+	//var editedMessage = message.content.replace(/\*/g, "bad")
+	/*var editedMessage = editedMessage.replace(/\_/g, "bad")
 	var blocked = profanity.filter(word => editedMessage.toLowerCase().includes(word));
 	var today = new Date();
 	var date = today.getMonth()+1+'-'+(today.getDate())+'-'+today.getFullYear();
@@ -1072,7 +1072,7 @@ client.on('message', message => {
     		fs.appendFileSync('./logs/' + message.author.id + '-modwarnings.log', 'Warning issued by OrangeEcho Public Beta \nReason: Profanity (' + message.content +')\n\n');
 			respond('Profanity Filter 🗣️',`Hey <@${message.author.id}>, please watch your language next time. Punishment information was updated on your profile.\nYour message: ${reason}`, message.author)
 	}
-})
+})*/
 
 //Sensitive topic filter
 client.on('message', message => {
