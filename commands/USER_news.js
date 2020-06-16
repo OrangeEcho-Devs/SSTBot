@@ -1,7 +1,7 @@
 module.exports = {
     name: 'news',
     aliases: ['newsletter','changelog'],
-    description: 'Shows new features and more about Apple Mod',
+    description: 'Shows new features and more about OrangeEcho',
     usage: '',
     cooldown: 0,
     mod:false,

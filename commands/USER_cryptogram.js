@@ -1,7 +1,7 @@
 module.exports = {
     name: 'cryptogram',
     aliases: ['crypt', 'codecracker'],
-    description: '**This is a game command.**\nTest your decoding skills with this game!\n*(Disclaimer: Apple Moderator will NOT be speaking in robot for this one.)*',
+    description: '**This is a game command.**\nTest your decoding skills with this game!\n*(Disclaimer: OrangeEcho will NOT be speaking in robot for this one.)*',
     usage: '',
     cooldown: 0,
     hidden:true,

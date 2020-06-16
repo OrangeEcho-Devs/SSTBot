@@ -1,7 +1,7 @@
 module.exports = {
   name: 'rolldicegame',
   aliases: ['dicerollgame', 'dicegame', 'rollgame'],
-  description: '**This is a game command.**\nPlay a dice game with Apple Mod.',
+  description: '**This is a game command.**\nPlay a dice game with OrangeEcho.',
   usage: '(number of dice to be rolled) | rolldicegame 1',
   cooldown: 0,
   hidden:true,
@@ -24,8 +24,8 @@ module.exports = {
     console.log('Dice rolled.')
     console.log('Dice multiplied by argument.')
     var numberApMod = Math.ceil(Math.random() * 6 * arg[1])
-    console.log('Apple Mod dice rolled.')
-    console.log('Apple Mod dice multiplied by argument.')
+    console.log('OrangeEcho dice rolled.')
+    console.log('OrangeEcho dice multiplied by argument.')
     var numswitch = Math.ceil(Math.random() * 64)
     console.log('Switcharoo number generated.')
     var divisor = Math.ceil(Math.random * 48)
