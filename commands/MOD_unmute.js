@@ -15,7 +15,8 @@ module.exports = {
       const {ModeratorRoleID} = require('../config.json');
 			const checkmemberforroles = message.mentions.members.first()
 			if (checkmemberforroles.roles.cache.some(role => role.id === `${ModeratorRoleID}`)){respond('',`You can't perform that action on this user.`, message.channel);return;;return;}
-    const reason = args.join(' ')
+      var reason = reasonraw.join(' ')
+      var reason = reason.replace(argarray[1], '')
     const taggeduser = message.mentions.users.first().id
     const guild = message.guild
     const role = guild.roles.cache.find(role => role.id === `${MuteRoleID}`);

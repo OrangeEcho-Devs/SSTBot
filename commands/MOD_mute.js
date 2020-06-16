@@ -17,7 +17,8 @@ module.exports = {
       const checkmemberforroles = message.mentions.members.first()
       if (checkmemberforroles.roles.cache.some(role => role.id === `${ModeratorRoleID}`)){respond('',`You can't perform that action on this user.`, message.channel);return;;return;}
       let reasonraw = args.filter(arg => !Discord.MessageMentions.USERS_PATTERN.test(arg));
-      const reason = reasonraw.join(' ')
+      var reason = reasonraw.join(' ')
+      var reason = reason.replace(argarray[1], '')
      const taggeduser = message.mentions.members.first().id
      const guild = message.guild
      const role = guild.roles.cache.find(role => role.id === `${MuteRoleID}`);

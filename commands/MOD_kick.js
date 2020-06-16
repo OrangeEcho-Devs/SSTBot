@@ -17,8 +17,8 @@ module.exports = {
 			// Code hopefully works
 			const channel = message.channel
 			const user = message.mentions.members.first()
-			const reason = args.join(' ')
-			const auditreason = reason.replace(argarray[1], '')
+			var reason = reasonraw.join(' ')
+			var reason = reason.replace(argarray[1], '')
 			if(reason == ''){var reason = 'No reason provided.'}
 			fs.appendFileSync('./logs/' + user.id + '-warnings.log', 'Kick\nReason: ' + auditreason +'\n\n');
 			fs.appendFileSync('./logs/' + user.id + '-modwarnings.log', 'Kick issued by '+ message.author.tag +'\nReason: ' + auditreason +'\n\n');
